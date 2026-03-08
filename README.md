@@ -40,7 +40,7 @@ The following models were trained and compared:
 - Gradient Boosting
 - CatBoost
 
-Random Forest was further improved using **hyperparameter tuning**.
+Random Forest was further optimized using **hyperparameter tuning**.
 
 ---
 
@@ -72,7 +72,7 @@ Additional validation methods:
 | Gradient Boosting | 0.9425 | 0.9241 | 0.7719 | 0.8412 | 0.9805 |
 | Logistic Regression | 0.9068 | 0.8388 | 0.6527 | 0.7341 | 0.9380 |
 
-The **tuned Random Forest model achieved the best performance**.
+The **Initial Random Forest model achieved the best performance but I chose tuned random forest to interpret feature to avoid any overfitting**.
 
 ---
 
